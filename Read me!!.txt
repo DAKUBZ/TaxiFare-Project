@@ -1,0 +1,8 @@
+Step 1 install "wampserver3.2.6"
+step 2 copy the"app" folder
+Step 3 paste it on C:\wamp64\www
+step 4 start the wampserver application
+step 5 wait 10 min then open your default brouser and go to http://localhost/
+step 6 phpmyadmin website should load there just click on 'add virtual host'
+step 7 enter all  the details then restart your pc.
+step 8 turn on your Pc and open wampserver again
